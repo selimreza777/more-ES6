@@ -78,7 +78,7 @@ class Dog extends Animal {
 }
 
 // Object create
-const dog1 = new Dog("Cofee", "Deshi", 3, "Brown");
+const dog11 = new Dog("Cofee", "Deshi", 3, "Brown");
 
 // Access parent + child methods
 console.log(dog1);
